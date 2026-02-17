@@ -1,2 +1,11 @@
-# praxis
-A custom game launcher and wishlist manager.
+# Praxis
+A custom video game launcher and wishlist manager.
+
+## Project Details
+TBD
+
+## Building
+TBD
+
+## To-Do List
+- [ ] TBD
